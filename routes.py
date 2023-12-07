@@ -19,7 +19,7 @@ students = APIRouter()
 instructors = APIRouter()
 classes = APIRouter()
 studentinterest = APIRouter()
-# recommendations = APIRouter()
+recommendations = APIRouter()
 authentication = APIRouter()
 json_filename="user.json"
 
